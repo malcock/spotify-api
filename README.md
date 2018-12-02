@@ -1,8 +1,13 @@
-# spotify-api
+### spotify-api
 Auth API for spotify client
 
-#Setup
-Clone the repo and run npm install
+### Setup
+Clone the repo and run 
+```
+npm install
+```
 
-#run
+### run
+```
 npm run dev
+```
